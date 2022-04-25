@@ -31,11 +31,6 @@ A lot of insights were extracted from data analysis, the process and results are
     - Leave-One-Out Target Encoding: similar to mean encoding except leave the target value of the row out when calculating the group mean.
 - Models (regression and classification): XGBoost, Random Forest
 
-### Folder submission.csv: <br>
-* Final submission for evaluation. <br>
-<br>
-Notice: Experiments folder is just a mess for my teammate and I updating each others activities.
-
 #### Folder data
 * [raw](data/raw):<br>
     Contains raw data directly pulled from database. Modules for random pull and balance pull can be found in src/modules. <br>
